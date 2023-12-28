@@ -1,5 +1,5 @@
-### The blacksmith of coding 👋
-
+### Hello there, i'm Jose Salazar, Sleus👋
+### The Blacksmith of código 🗿
 <!--
 **Sleusnarmed/Sleusnarmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
