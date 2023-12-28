@@ -1,16 +1,24 @@
-### Hello there, i'm Jose Salazar, Sleus👋
-### The Blacksmith of código 🗿
-<!--
-**Sleusnarmed/Sleusnarmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my Github Profile👋 
+I'm Jose Salazar, also known as Sleus, the Blacksmith of Coding 🗿
 
-Here are some ideas to get you started:
+## 💻 About me 
+- 📌 I'm a 19-year-old developer based in Mexico. 
+- 💬 Feel free to engage in conversations about games with me.
+- ✨ As a kid, I aspired to be a Sheriff.
+- 🏐 I was part of a competitive volleyball team.
+- 📚 Currently studying at Instituto Tecnologico de Mérida.
+- 🔍 Actively seeking job opportunities.
+- 🚀 I thrive on challenging myself to push beyond limits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Current endeavors
+
+I am currently immersed in a variety of full-stack personal projects:
+- Crafting a portfolio to showcase my diverse projects.
+- Designing an engaging ecommerce landing page.
+- Developing a dynamic Blog.
+- Creating a real-time chat application.
+
+## 📬 Contact 
+For a swift response you can DM on: [Instagram](https://www.instagram.com/joseok6/) or [Twitter](https://twitter.com/JoseSalazarDev)
+
+For proffesional inquires, reach out via mail at [jmsalazar.macg@hotmail.com](mailto:jmsalazar.macg@hotmail.com).
