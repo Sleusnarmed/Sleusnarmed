@@ -14,9 +14,8 @@ I'm Jose Salazar, also known as Sleus, the Blacksmith of Coding 🗿
 
 I am currently immersed in a variety of full-stack personal projects:
 - Crafting a portfolio to showcase my diverse projects.
-- Designing an engaging ecommerce landing page.
-- Developing a dynamic Blog.
-- Creating a real-time chat application.
+- Designing a task management
+- Creating a wine ecommerce
 
 ## 📬 Contact 
 For a swift response you can DM on: [Instagram](https://www.instagram.com/joseok6/) or [Twitter](https://twitter.com/JoseSalazarDev)
